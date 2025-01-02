@@ -327,7 +327,7 @@ export const managers = [
       "name": "Landon Groves",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Former member of Meltdog Fantasy Football."
+      "bio": "Former member of Meltdog Fantasy Football.",
       "photo": "/managers/grover.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -350,7 +350,7 @@ export const managers = [
       "name": "Parker Sauls",
       "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Meltdog Fantasy Football Enemy #1. Failed to honor his punishment, The Cage, therefore, is serving a ban that can only be liftef by participating in the punishment.",
+      "bio": "Meltdog Fantasy Football Enemy #1. Failed to honor his punishment, The Cage, therefore, is serving a ban that can only be lifted by participating in the punishment.",
       "photo": "/managers/parker.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
