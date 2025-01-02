@@ -28,7 +28,7 @@ export const managers = [
       "name": "Caleb Melton",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Kentucky", // (optional)
-      "bio": "Commissioner of Meltdog Fantasy Football. Father of the league, the website, and the TikTok account.",
+      "bio": "Commissioner of Meltdog Fantasy Football. Father of the league, the website, and the TikTok account. Passionate lover of the game and destined to win a championship in my own league!",
       "photo": "/managers/meltdog.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
