@@ -245,7 +245,7 @@ export const managers = [
         link: 5, // manager array number within this array, or null to link back to all managers page
         image: "/managers/landon.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 6801, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 11584, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "It's okay to get the guys who have a little bit of Austism.",
@@ -278,7 +278,7 @@ export const managers = [
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "1075602954985521152",
-      "name": "Aaron Knoff",
+      "name": "Rudoodoo",
       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ghent", // (optional)
       "bio": "Courtesy to draft Pat Freiermuth and I do oblige.",
@@ -301,7 +301,7 @@ export const managers = [
     {
       "roster": 13,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "808433602726567936",
-      "name": "Aaron Knoff's Old Account",
+      "name": "Rudoodoo's Old Account",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ghent", // (optional)
       "bio": "Due to a forgotten password, Aaron's old account rudoodoo was replaced by rudoodude.",
