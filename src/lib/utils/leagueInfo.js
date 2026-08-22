@@ -28,7 +28,7 @@ export const managers = [
       "name": "Caleb Melton",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Kentucky", // (optional)
-      "bio": "Commissioner of Meltdog Fantasy Football. Father of the league, the website, and the TikTok account. Passionate lover of the game and destined to win a championship in my own league!",
+      "bio": "Four seasons into MFF, Caleb has built almost everything surrounding the league except the championship résumé he wants for himself. The commissioner has never lacked investment, preparation, or opinions, which only makes every disappointing season easier for the rest of the league to enjoy. At this point, winning MFF would be more than another title—it would finally close the most obvious hole in the story of the person who created the whole thing.",
       "photo": "/managers/meltdog.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -51,7 +51,7 @@ export const managers = [
       "name": "Seth Franklin",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Leader of the greatest team ever assembled, Season 0 Arkansas Franklin.",
+      "bio": "Seth’s MFF career has been spent trying to recreate the kind of powerhouse he believes Arkansas Franklin once was before the league’s official history began. He has fielded talented teams and never lacked championship expectations, but four completed seasons have come and gone without the official MFF title that would validate all of that confidence. That disconnect between how highly Seth views his best rosters and what ultimately ends up in the trophy case has become part of his identity.",
       "photo": "/managers/seth.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -74,7 +74,7 @@ export const managers = [
       "name": "Grayson Kinman",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Season 3 Manager of the Year. Known to put up points. A force to be reckoned with.",
+      "bio": "Grayson’s four-year résumé is built around offensive firepower, with his 2024 season serving as the clearest proof of how dangerous his teams can become when everything clicks. He has established himself as somebody capable of building one of the league’s best regular-season teams and putting up points with anybody. The unanswered question is whether that ceiling can eventually produce the postseason run that turns a strong résumé into a championship one.",
       "photo": "/managers/grayson.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -97,7 +97,7 @@ export const managers = [
       "name": "Garrison Brumback",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Holder of the best record in MFF History 12-2 and worst record in MFF History 1-13. Season 1 Manager of the Year. Season 2 Defensive Manager of the Year.",
+      "bio": "Brummy may have produced the widest range of outcomes of anybody in MFF history. At one point his team looked like the league’s model of regular-season dominance; at another, he found himself on the complete opposite end of the standings. Four years have shown that there is almost no predictable middle ground with Garrison—his teams can be great, disastrous, or somehow both memorable for entirely different reasons. Through all of it, his confidence in his own players has remained completely unchanged.",
       "photo": "/managers/brummy.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -120,7 +120,7 @@ export const managers = [
       "name": "Cameron Butcher",
       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Leader of a Goon Squad...formerly a Butcher Squad.",
+      "bio": "Cam entered after MFF’s story was already underway, inheriting a team and gradually turning it into something recognizably his own. His first two seasons have been less about inheriting somebody else’s history and more about establishing the Butcher Bpys as its own era. He doesn’t have the four-year sample that the originals do yet, which makes his profile interesting: his reputation is still being formed rather than explained by something that happened three seasons ago.",
       "photo": "/managers/cam.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -143,7 +143,7 @@ export const managers = [
       "name": "Landon Isaacs",
       "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Season 2 Rookie Manager of the Year. Maybe the most willing trader in the entirety of the Fantasy Football World.",
+      "bio": "Landon made an immediate impression when he entered MFF in 2023 and has spent the three seasons since becoming one of the league’s most active roster-builders. Very few managers are as comfortable tearing apart something that looks finished and rebuilding it through another trade, which has made his teams feel constantly in motion. His early success established that he belonged; now the missing step is turning all of that activity into the kind of postseason result that survives longer than the trade that created it.",
       "photo": "/managers/landon.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -166,7 +166,7 @@ export const managers = [
       "name": "Ayden Taylor",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Season 1 Champion, Season 2 Manager of the Year, Season 2 Offensive Manager of the Year.",
+      "bio": "Few four-year arcs have changed as dramatically as Ayden’s. He began MFF by winning the inaugural championship, followed it with an even stronger reputation as one of the league’s best managers, and looked like somebody positioned to remain near the top for years. Then came the other side of fantasy football: by 2025, the league’s first champion had fallen all the way to losing the league. Going from the first name on MFF’s championship history to the wrong end of Season 4 gives Ayden one of the league’s most complete rise-and-fall-and-now-try-to-rise-again stories.",
       "photo": "/managers/ayden.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -189,7 +189,7 @@ export const managers = [
       "name": "Neil Abbott",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "The first ever back-to-back and multiple time champion in league history. Season 2 Comeback Manager of the Year.",
+      "bio": "Neil has put together the best sustained postseason run MFF has seen. After breaking through in 2023, he repeated as champion in 2024 and then returned to the championship again in 2025, giving him three consecutive title-game appearances. Luke finally stopped the run, but losing that third final hardly diminishes what Neil did: for three straight Decembers, every championship had to go through him. Four seasons in, he is the closest thing MFF has produced to a dynasty.",
       "photo": "/managers/neil.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -212,7 +212,7 @@ export const managers = [
       "name": "Luke Taylor",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Regular season winner looking to take that success to the playoffs. Season 1 Rookie of the Year.",
+      "bio": "For years, Luke’s reputation came with an irritating qualifier: he could build great regular-season teams, but eventually he had to prove it when the games mattered most. Season 4 finally killed that narrative. After spending much of his MFF career knocking on the door, Luke won the 2025 championship and did it by ending Neil’s bid for a third consecutive title. The player who once seemed destined to be remembered for what happened before the playoffs now has exactly the postseason result his résumé was missing.",
       "photo": "/managers/luke.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -235,7 +235,7 @@ export const managers = [
       "name": "Austin Hicks",
       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "Season 3 Rookie Manager of the Year. Renowned glazer of Bucky Irving and Tee Higgins.",
+      "bio": "Austin has only been around for half of MFF’s four-season history, but he needed very little time to establish himself. His first season immediately gave him credibility, while his second began turning the novelty of the new manager into an actual track record. What stands out most is how quickly Austin developed the kind of stubborn player convictions that usually take years to become league jokes—once he decides somebody is one of his guys, everybody else is going to hear about it.",
       "photo": "/managers/austin.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -258,7 +258,7 @@ export const managers = [
       "name": "Rudoodoo",
       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ghent", // (optional)
-      "bio": "Courtesy to draft Pat Freiermuth and I do oblige.",
+      "bio": "Aaron has managed to become part of MFF lore in ways that have very little to do with a traditional résumé. Four seasons have included roster changes, endless trade possibilities, an entire Sleeper-account change, and a completely unreasonable amount of Pat Freiermuth discourse, yet the character of Rudoodoo has somehow remained remarkably consistent. He is one of those managers whose presence has become part of the league’s personality even without a Neil-style championship run attached to it.",
       "photo": "/managers/rudoodoo.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -281,7 +281,7 @@ export const managers = [
       "name": "Blake Webster",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Carrollton", // (optional)
-      "bio": "The youngest member of Meltdog Fantasy Football",
+      "bio": "Blake is the exception to the four-year retrospective because none of those four seasons belong to him. He joins in 2026 after the rest of the league has already accumulated championships, collapses, grudges, running jokes and reputations that follow them into every draft. That gives Blake the rarest thing in MFF: a completely clean slate. Everyone else’s bio explains what they’ve already become; his is waiting to find out.",
       "photo": "/managers/blake.JPG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2026, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
